@@ -1,0 +1,13 @@
+# A FOSS Repository Playground
+
+This repository will serve as a live playground used to practice using git and
+version control tools with other developers.
+
+You will:
+- Clone this repository
+- Make branches
+- Make changes in your branch
+- Try to Merge into the Main branch
+- Solve any Merge Conflicts
+- Create a Pull Request
+- Fetch and Pull
