@@ -1,4 +1,4 @@
-#A FOSS Repository Playground
+# A FOSS Repository Playground
 
 This repository will serve as a live playground used to practice using git and
 version control tools with other developers.
